@@ -1,6 +1,6 @@
-package com.spring.hr_worker.repositories;
+package com.spring.hrworker.repositories;
 
-import com.spring.hr_worker.entities.Worker;
+import com.spring.hrworker.entities.Worker;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface WorkerRepository extends JpaRepository<Worker,Long> {

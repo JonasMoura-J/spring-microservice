@@ -1,7 +1,7 @@
-package com.spring.hr_worker.resources;
+package com.spring.hrworker.resources;
 
-import com.spring.hr_worker.entities.Worker;
-import com.spring.hr_worker.repositories.WorkerRepository;
+import com.spring.hrworker.entities.Worker;
+import com.spring.hrworker.repositories.WorkerRepository;
 import org.jspecify.annotations.Nullable;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

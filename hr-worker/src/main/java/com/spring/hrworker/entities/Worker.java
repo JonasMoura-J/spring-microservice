@@ -1,4 +1,4 @@
-package com.spring.hr_worker.entities;
+package com.spring.hrworker.entities;
 
 import jakarta.persistence.*;
 
