@@ -15,5 +15,4 @@
         <module>hr-worker</module>
         <module>hr-payroll</module>
     </modules>
-
 </project>
