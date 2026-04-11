@@ -2,7 +2,6 @@ package com.spring.hrworker.resources;
 
 import com.spring.hrworker.entities.Worker;
 import com.spring.hrworker.repositories.WorkerRepository;
-import org.jspecify.annotations.Nullable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
