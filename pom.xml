@@ -17,5 +17,6 @@
         <module>hr-eureka-server</module>
         <module>hr-api-gateway</module>
         <module>hr-config-server</module>
+        <module>hr-user</module>
     </modules>
 </project>
