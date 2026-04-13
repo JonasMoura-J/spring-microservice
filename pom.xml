@@ -16,5 +16,6 @@
         <module>hr-payroll</module>
         <module>hr-eureka-server</module>
         <module>hr-api-gateway</module>
+        <module>hr-config-server</module>
     </modules>
 </project>
