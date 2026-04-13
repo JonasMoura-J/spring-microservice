@@ -14,9 +14,9 @@
     </parent>
 
     <groupId>com.spring</groupId>
-    <artifactId>hrpayroll</artifactId>
+    <artifactId>hr-payroll</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hrpayroll</name>
+    <name>hr-payroll</name>
     <description>Microserviço de pagamento</description>
 
     <properties>
