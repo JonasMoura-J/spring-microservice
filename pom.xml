@@ -18,5 +18,6 @@
         <module>hr-api-gateway</module>
         <module>hr-config-server</module>
         <module>hr-user</module>
+        <module>hr-oauth</module>
     </modules>
 </project>
